@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../internal/testing/SharingExplorer/SharingExplorer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RPSSample/RPSSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:Scrumptious/Scrumptious.xcodeproj">
+   </FileRef>
+</Workspace>
