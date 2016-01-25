@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		582290BE18E215B000A0CBAC /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 582290BD18E215B000A0CBAC /* StoreKit.framework */; };
 		58CDF85D18CA863800790465 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58CDF85C18CA863800790465 /* CoreMotion.framework */; };
 		58D92D2218C7A6100090E7E2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58D92D2118C7A6100090E7E2 /* Foundation.framework */; };
 		58D92D2418C7A6100090E7E2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58D92D2318C7A6100090E7E2 /* CoreGraphics.framework */; };
@@ -69,7 +68,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				737A56211A5F438D00AF33D4 /* FBAudienceNetwork.framework in Frameworks */,
-				582290BE18E215B000A0CBAC /* StoreKit.framework in Frameworks */,
 				58CDF85D18CA863800790465 /* CoreMotion.framework in Frameworks */,
 				58D92D6E18C7A6EB0090E7E2 /* AdSupport.framework in Frameworks */,
 				58D92D2418C7A6100090E7E2 /* CoreGraphics.framework in Frameworks */,

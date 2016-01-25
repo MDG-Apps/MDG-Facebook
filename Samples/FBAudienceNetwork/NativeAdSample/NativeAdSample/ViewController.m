@@ -151,12 +151,12 @@
 
 - (IBAction)loadNativeAdInTableViewTapped:(id)sender
 {
-    TableViewController *tableViewController = [[TableViewController alloc] init];
+    TableViewController *tableViewController = [TableViewController new];
     [self presentViewController:tableViewController animated:YES completion:nil];
 }
 
 - (IBAction)loadNativeAdInScrollViewTapped:(id)sender {
-    ScrollViewController *tableViewController = [[ScrollViewController alloc] init];
+    ScrollViewController *tableViewController = [ScrollViewController new];
     [self presentViewController:tableViewController animated:YES completion:nil];
 }
 
